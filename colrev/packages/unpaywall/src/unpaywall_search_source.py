@@ -45,7 +45,6 @@ class UnpaywallSearchSource(JsonSchemaMixin):
 
     short_name = "Unpaywall"
 
-
     """API_FIELDS = [
         "data_standard",
         "doi",
